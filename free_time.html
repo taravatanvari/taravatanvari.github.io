@@ -52,11 +52,7 @@
     .photo-container {
       text-align: center;
       margin: 20px auto;
-      max-width: 600px;
-    }
-
-    .image-wrapper {
-      position: relative;
+      max-width: 300px;
     }
 
     .image-wrapper img {
@@ -69,17 +65,25 @@
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 
+    .photography-row {
+      display: flex; /* Enables row layout */
+      justify-content: center; /* Centers the photos in the row */
+      gap: 20px; /* Adds space between the photos */
+      margin-bottom: 10px; /* Adds space between the row and the caption */
+    }
+
     .caption {
-      margin-top: 10px;
+      text-align: center;
       font-style: italic;
       font-size: 14px;
       color: #555;
+      margin-top: 10px;
     }
 
     .location {
-      margin-top: 5px;
       font-weight: bold;
       color: #367da0;
+      margin-top: 5px;
     }
 
     footer {
@@ -111,33 +115,40 @@
       </p>
     </div>
 
+    <!-- Drawing Hobby -->
     <div class="photo-container">
       <div class="image-wrapper">
         <img src="assets/photo/drawing-1.jpg" alt="drawing">
         <div class="caption">
-         Drawing is another hobby I deeply enjoy :) it allows me to express my creativity and unwind!
+          Drawing is another hobby I deeply enjoy :) it allows me to express my creativity and unwind!
         </div>
       </div>
     </div>
 
-    <div class="photo-container">
-      <div class="image-wrapper">
-        <img src="assets/photo/photography-2.jpg" alt="photography">
-        <div class="caption">
-          Photography is one of my favorite hobbies—I truly enjoy every moment of it!
-          <div class="location">&#128205; Pisa, Italy</div>
+    <!-- Photography Row -->
+    <div class="photography-row">
+      <div class="photo-container">
+        <div class="image-wrapper">
+          <img src="assets/photo/photography-1.jpg" alt="photography">
         </div>
       </div>
-    </div>
 
       <div class="photo-container">
-      <div class="image-wrapper">
-        <img src="assets/photo/photography-3.jpg" alt="photography">
-        <div class="caption">
-          Photography is one of my favorite hobbies—I truly enjoy every moment of it!
-          <div class="location">&#128205; Pisa, Italy</div>
+        <div class="image-wrapper">
+          <img src="assets/photo/photography-2.jpg" alt="photography">
         </div>
       </div>
+
+      <div class="photo-container">
+        <div class="image-wrapper">
+          <img src="assets/photo/photography-3.jpg" alt="photography">
+        </div>
+      </div>
+    </div>
+
+    <div class="caption">
+      Photography is one of my favorite hobbies—I truly enjoy capturing the beauty of the world through my lens!
+      <div class="location">&#128205; Various Locations</div>
     </div>
   </main>
 
