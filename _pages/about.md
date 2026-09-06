@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>Institute for Psychology</p>
     <p>Fliednerstraße 21</p>
-    <p>Münster, Germany 12345</p>
+    <p>Münster, Germany 48149</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,5 +29,8 @@ latest_posts:
 ---
 
 
-Hello world :> I’m an engineer fascinated by how we perceive the world around us. For years, I was the person sitting behind a computer, writing code and telling systems what to do. Somewhere along the way, I became more curious about the most complex piece of hardware I had access to: the brain, and how it guides behaviour, and makes sense of the world.
-That curiosity led me from computer engineering and artificial intelligence into vision science and virtual reality. I’m currently pursuing a PhD at the University of Münster, where I study how visual perception, gaze, and locomotion interact in an immersive environment. My research focuses on how people adapt their movements when what they see and what their body is actually doing do not quite match, with a particular interest in redirected walking, visuomotor adaptation, and human behaviour in VR. I enjoy working using technology not only to build systems, but also to better understand the one we carry with us every day. Beyond research, I’m usually curious about too many things at once. You can find some of them on my favourites page.
+Hello World! :> I’m an engineer fascinated by how we perceive the world around us. For years, I was the person sitting behind a computer, writing code and telling systems what to do. Somewhere along the way, I became more curious about the most complex piece of hardware I had access to: the brain, and how it guides behaviour, and makes sense of the world.
+
+That curiosity led me from computer engineering and artificial intelligence into vision science and virtual reality. I’m currently pursuing a PhD at the University of Münster, where I study how visual perception, gaze, and locomotion interact in an immersive environment. My research focuses on how people adapt their movements when what they see and what their body is actually doing do not quite match, with a particular interest in redirected walking, visuomotor adaptation, and human behaviour in VR. I enjoy working using technology not only to build systems, but also to better understand the one we carry with us every day. 
+
+Beyond research, I’m usually curious about too many things at once. You can find some of them on my favourites page.
