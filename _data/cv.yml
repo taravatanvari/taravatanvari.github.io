@@ -13,11 +13,15 @@ cv:
       username: taravat-anvari
 
   sections:
-
-    Research Interests:
-      - name: Research Areas
-        icon: fa-solid fa-tag
-        keywords: "Virtual Reality, Redirected Walking, Gaze Behaviour and Visuomotor Adaptation, Eye–Body Coordination, Gaze and Motion Analysis, 3D Pose Estimation, Machine Learning"
+  
+    #Research Interests:
+      #- name: Research Areas
+      #  icon: fa-solid fa-tag
+      #  keywords: "Virtual Reality, Redirected Walking, Gaze Behaviour and Visuomotor Adaptation, Eye–Body Coordination, Gaze and Motion Analysis, 3D Pose Estimation, Machine Learning"
+Research Interests:
+  - "Virtual Reality"
+  - "Redirected Walking"
+  - "Eye Tracking"
 
     Education:
       - institution: University of Münster
@@ -39,7 +43,7 @@ cv:
         score: "GPA: 4.17"
 
       - institution: Sadjad University of Technology
-        location: Iran
+        location: Mashhad, Iran
         area: Computer Science and Information Technology
         studyType: BSc
         start_date: 2014
