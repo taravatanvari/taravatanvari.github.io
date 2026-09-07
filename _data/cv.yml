@@ -1,189 +1,140 @@
+```yaml
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Taravat Anvari
+  label: PhD Researcher
+  email: tanvari@uni-muenster.com
+  location: Münster, Germany
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: PhD researcher in cognitive neuroscience working on virtual reality, visual perception, gaze behaviour, visuomotor adaptation, and human locomotion.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    #- network: GitHub
+     # username: YOUR_GITHUB_USERNAME
+    - network: https://www.linkedin.com/in/taravat-anvari/
+      username: taravat-anvari
 
   sections:
+
+    Research Interests:
+      - name: Research Areas
+        icon: fa-solid fa-tag
+        keywords: "Virtual Reality, Redirected Walking, Gaze Behaviour and Visuomotor Adaptation, Eye–Body Coordination, Gaze and Motion Analysis, 3D Pose Estimation, Machine Learning"
+
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Münster
+        location: Münster, Germany
+        area: Psychology (Cognitive Neuroscience)
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2023
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Prof. Dr. Markus Lappe"
+          - Research on visual perception, redirected walking, gaze behaviour, and visuomotor adaptation in virtual reality.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Chung-Ang University
+        location: Seoul, South Korea
+        area: Application Software
+        studyType: MSc
+        start_date: 2020
+        end_date: 2023
+        score: "GPA: 4.17"
+
+      - institution: Sadjad University of Technology
+        location: Iran
+        area: Computer Science and Information Technology
+        studyType: BSc
+        start_date: 2014
+        end_date: 2018
+        score: "GPA: 3.60"
+
+    Research Experience:
+      - company: University of Münster
+        position: Doctoral Researcher
+        location: Münster, Germany
+        start_date: 2023
+        end_date: Present
+        summary: Research in visual perception, virtual reality, gaze behaviour, and human locomotion.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Design and conduct virtual reality experiments investigating gaze and locomotor behaviour under redirected walking.
+          - Analyze binocular eye-tracking, head-motion, and locomotion data to study gaze–head–body coordination and visuomotor adaptation.
+          - Develop VR experiments and experimental tools in Unity.
+          - Conduct statistical and time-series analyses of behavioral and motion-tracking data.
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: University of Münster
+        position: Researcher – Gaze-Enhanced Full-Body Pose Estimation
+        location: Münster, Germany
+        start_date: 2023
+        end_date: 2024
+        summary: Investigated whether gaze information can improve full-body pose estimation from sparse VR tracking.
         highlights:
-          - Relativity
-          - Description 2.
+          - Collected synchronized body-motion data at 120 Hz and gaze data using a Tobii eye tracker at 50 Hz.
+          - Developed PoseFusionNet, a multimodal deep-learning model combining gaze with sparse HMD and controller tracking.
+          - Evaluated the contribution of gaze information to upper-body and full-body joint rotation estimation.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Chung-Ang University
+        position: Graduate Researcher
+        location: Seoul, South Korea
+        start_date: 2020
+        end_date: 2023
+        summary: Research on deep-learning-based human pose estimation and avatar animation for virtual reality.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Developed methods for estimating full-body avatar pose from sparse VR trackers.
+          - Conducted research on geometry-informed and deep-learning-based human motion reconstruction.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    Teaching Experience:
+      - company: University of Münster
+        position: Instructor – Attention Seminar
+        location: Münster, Germany
+        start_date: 2026-10
+        end_date: Present
+        summary: Instructor for a Bachelor seminar on attention during the autumn semester.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Organize and lead a six-session Bachelor seminar.
+          - Guide student presentations and discussions of scientific literature.
+          - Support students in preparing and presenting research topics.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - company: Chung-Ang University
+        position: Teaching Assistant
+        location: Seoul, South Korea
+        start_date: 2020
+        end_date: 2020
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming & Machine Learning
+        icon: fa-solid fa-code
+        keywords: "Python, PyTorch, TensorFlow, C++, C#, MATLAB"
+
+      - name: Virtual Reality
+        icon: fa-solid fa-vr-cardboard
+        keywords: "Unity3D, SteamVR, SRanipal"
+
+      - name: Experimental & Motion Data
+        icon: fa-solid fa-chart-line
+        keywords: "Eye Tracking, Motion Capture, Gaze Analysis, Time-Series Analysis"
+
+      - name: Tools
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Git, MotionBuilder, AMASS Pipeline"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Persian
+        summary: "Native"
 
       - name: English
-        summary: "Fluent"
+        summary: "C1"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Korean
+        summary: "B1"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: German
+        summary: "A2"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Awards & Scholarships:
+      - title: CAYSS Scholarship
+        date: 2020
+        awarder: Chung-Ang University
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: Academic Fellowship
+        date: 2018
+        awarder: Ferdowsi University
+```
