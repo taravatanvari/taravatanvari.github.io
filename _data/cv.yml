@@ -1,141 +1,137 @@
-cv:
-  name: Taravat Anvari
-  label: PhD Researcher
-  email: tanvari@uni-muenster.com
-  location: Münster, Germany
-  image: ""
-  summary: PhD researcher in cognitive neuroscience working on virtual reality, visual perception, gaze behaviour, visuomotor adaptation, and human locomotion.
+# cv:
+#   name: Taravat Anvari
+#   label: PhD Researcher
+#   email: tanvari@uni-muenster.com
+#   location: Münster, Germany
+#   image: ""
+#   summary: PhD researcher in cognitive neuroscience working on virtual reality, visual perception, gaze behaviour, visuomotor adaptation, and human locomotion.
 
-  social_networks:
-    #- network: GitHub
-     # username: YOUR_GITHUB_USERNAME
-    - network: https://www.linkedin.com/in/taravat-anvari/
-      username: taravat-anvari
+#   social_networks:
+#     #- network: GitHub
+#      # username: YOUR_GITHUB_USERNAME
+#     - network: https://www.linkedin.com/in/taravat-anvari/
+#       username: taravat-anvari
 
-  sections:
+#   sections:
   
-    #Research Interests:
-      #- name: Research Areas
-      #  icon: fa-solid fa-tag
-      #  keywords: "Virtual Reality, Redirected Walking, Gaze Behaviour and Visuomotor Adaptation, Eye–Body Coordination, Gaze and Motion Analysis, 3D Pose Estimation, Machine Learning"
-Research Interests:
-  - "Virtual Reality"
-  - "Redirected Walking"
-  - "Eye Tracking"
+#     Research Interests:
+#       - "Virtual Reality"
+#       - "Redirected Walking"
+#       - "Eye Tracking"
 
-    Education:
-      - institution: University of Münster
-        location: Münster, Germany
-        area: Psychology (Cognitive Neuroscience)
-        studyType: PhD
-        start_date: 2023
-        end_date: Present
-        highlights:
-          - "Advisor: Prof. Dr. Markus Lappe"
-          - Research on visual perception, redirected walking, gaze behaviour, and visuomotor adaptation in virtual reality.
+#     Education:
+#       - institution: University of Münster
+#         location: Münster, Germany
+#         area: Psychology (Cognitive Neuroscience)
+#         studyType: PhD
+#         start_date: 2023
+#         end_date: Present
+#         highlights:
+#           - "Advisor: Prof. Dr. Markus Lappe"
+#           - Research on visual perception, redirected walking, gaze behaviour, and visuomotor adaptation in virtual reality.
 
-      - institution: Chung-Ang University
-        location: Seoul, South Korea
-        area: Application Software
-        studyType: MSc
-        start_date: 2020
-        end_date: 2023
-        score: "GPA: 4.17"
+#       - institution: Chung-Ang University
+#         location: Seoul, South Korea
+#         area: Application Software
+#         studyType: MSc
+#         start_date: 2020
+#         end_date: 2023
+#         score: "GPA: 4.17"
 
-      - institution: Sadjad University of Technology
-        location: Mashhad, Iran
-        area: Computer Science and Information Technology
-        studyType: BSc
-        start_date: 2014
-        end_date: 2018
-        score: "GPA: 3.60"
+#       - institution: Sadjad University of Technology
+#         location: Mashhad, Iran
+#         area: Computer Science and Information Technology
+#         studyType: BSc
+#         start_date: 2014
+#         end_date: 2018
+#         score: "GPA: 3.60"
 
-    Research Experience:
-      - company: University of Münster
-        position: Doctoral Researcher
-        location: Münster, Germany
-        start_date: 2023
-        end_date: Present
-        summary: Research in visual perception, virtual reality, gaze behaviour, and human locomotion.
-        highlights:
-          - Design and conduct virtual reality experiments investigating gaze and locomotor behaviour under redirected walking.
-          - Analyze binocular eye-tracking, head-motion, and locomotion data to study gaze–head–body coordination and visuomotor adaptation.
-          - Develop VR experiments and experimental tools in Unity.
-          - Conduct statistical and time-series analyses of behavioral and motion-tracking data.
+#     Research Experience:
+#       - company: University of Münster
+#         position: Doctoral Researcher
+#         location: Münster, Germany
+#         start_date: 2023
+#         end_date: Present
+#         summary: Research in visual perception, virtual reality, gaze behaviour, and human locomotion.
+#         highlights:
+#           - Design and conduct virtual reality experiments investigating gaze and locomotor behaviour under redirected walking.
+#           - Analyze binocular eye-tracking, head-motion, and locomotion data to study gaze–head–body coordination and visuomotor adaptation.
+#           - Develop VR experiments and experimental tools in Unity.
+#           - Conduct statistical and time-series analyses of behavioral and motion-tracking data.
 
-      - company: University of Münster
-        position: Researcher – Gaze-Enhanced Full-Body Pose Estimation
-        location: Münster, Germany
-        start_date: 2023
-        end_date: 2024
-        summary: Investigated whether gaze information can improve full-body pose estimation from sparse VR tracking.
-        highlights:
-          - Collected synchronized body-motion data at 120 Hz and gaze data using a Tobii eye tracker at 50 Hz.
-          - Developed PoseFusionNet, a multimodal deep-learning model combining gaze with sparse HMD and controller tracking.
-          - Evaluated the contribution of gaze information to upper-body and full-body joint rotation estimation.
+#       - company: University of Münster
+#         position: Researcher – Gaze-Enhanced Full-Body Pose Estimation
+#         location: Münster, Germany
+#         start_date: 2023
+#         end_date: 2024
+#         summary: Investigated whether gaze information can improve full-body pose estimation from sparse VR tracking.
+#         highlights:
+#           - Collected synchronized body-motion data at 120 Hz and gaze data using a Tobii eye tracker at 50 Hz.
+#           - Developed PoseFusionNet, a multimodal deep-learning model combining gaze with sparse HMD and controller tracking.
+#           - Evaluated the contribution of gaze information to upper-body and full-body joint rotation estimation.
 
-      - company: Chung-Ang University
-        position: Graduate Researcher
-        location: Seoul, South Korea
-        start_date: 2020
-        end_date: 2023
-        summary: Research on deep-learning-based human pose estimation and avatar animation for virtual reality.
-        highlights:
-          - Developed methods for estimating full-body avatar pose from sparse VR trackers.
-          - Conducted research on geometry-informed and deep-learning-based human motion reconstruction.
+#       - company: Chung-Ang University
+#         position: Graduate Researcher
+#         location: Seoul, South Korea
+#         start_date: 2020
+#         end_date: 2023
+#         summary: Research on deep-learning-based human pose estimation and avatar animation for virtual reality.
+#         highlights:
+#           - Developed methods for estimating full-body avatar pose from sparse VR trackers.
+#           - Conducted research on geometry-informed and deep-learning-based human motion reconstruction.
 
-    Teaching Experience:
-      - company: University of Münster
-        position: Instructor – Attention Seminar
-        location: Münster, Germany
-        start_date: 2026-10
-        end_date: Present
-        summary: Instructor for a Bachelor seminar on attention during the autumn semester.
-        highlights:
-          - Organize and lead a six-session Bachelor seminar.
-          - Guide student presentations and discussions of scientific literature.
-          - Support students in preparing and presenting research topics.
+#     Teaching Experience:
+#       - company: University of Münster
+#         position: Instructor – Attention Seminar
+#         location: Münster, Germany
+#         start_date: 2026-10
+#         end_date: Present
+#         summary: Instructor for a Bachelor seminar on attention during the autumn semester.
+#         highlights:
+#           - Organize and lead a six-session Bachelor seminar.
+#           - Guide student presentations and discussions of scientific literature.
+#           - Support students in preparing and presenting research topics.
 
-      - company: Chung-Ang University
-        position: Teaching Assistant
-        location: Seoul, South Korea
-        start_date: 2020
-        end_date: 2020
+#       - company: Chung-Ang University
+#         position: Teaching Assistant
+#         location: Seoul, South Korea
+#         start_date: 2020
+#         end_date: 2020
 
-    Skills:
-      - name: Programming & Machine Learning
-        icon: fa-solid fa-code
-        keywords: "Python, PyTorch, TensorFlow, C++, C#, MATLAB"
+#     Skills:
+#       - name: Programming & Machine Learning
+#         icon: fa-solid fa-code
+#         keywords: "Python, PyTorch, TensorFlow, C++, C#, MATLAB"
 
-      - name: Virtual Reality
-        icon: fa-solid fa-vr-cardboard
-        keywords: "Unity3D, SteamVR, SRanipal"
+#       - name: Virtual Reality
+#         icon: fa-solid fa-vr-cardboard
+#         keywords: "Unity3D, SteamVR, SRanipal"
 
-      - name: Experimental & Motion Data
-        icon: fa-solid fa-chart-line
-        keywords: "Eye Tracking, Motion Capture, Gaze Analysis, Time-Series Analysis"
+#       - name: Experimental & Motion Data
+#         icon: fa-solid fa-chart-line
+#         keywords: "Eye Tracking, Motion Capture, Gaze Analysis, Time-Series Analysis"
 
-      - name: Tools
-        icon: fa-solid fa-screwdriver-wrench
-        keywords: "Git, MotionBuilder, AMASS Pipeline"
+#       - name: Tools
+#         icon: fa-solid fa-screwdriver-wrench
+#         keywords: "Git, MotionBuilder, AMASS Pipeline"
 
-    Languages:
-      - name: Persian
-        summary: "Native"
+#     Languages:
+#       - name: Persian
+#         summary: "Native"
 
-      - name: English
-        summary: "C1"
+#       - name: English
+#         summary: "C1"
 
-      - name: Korean
-        summary: "B1"
+#       - name: Korean
+#         summary: "B1"
 
-      - name: German
-        summary: "A2"
+#       - name: German
+#         summary: "A2"
 
-    Awards & Scholarships:
-      - title: CAYSS Scholarship
-        date: 2020
-        awarder: Chung-Ang University
+#     Awards & Scholarships:
+#       - title: CAYSS Scholarship
+#         date: 2020
+#         awarder: Chung-Ang University
 
       - title: Academic Fellowship
         date: 2018
