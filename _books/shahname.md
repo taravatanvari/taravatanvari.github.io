@@ -1,4 +1,3 @@
-
 ---
 layout: book-review
 title: Shahname
