@@ -1,13 +1,14 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: Bookshelf
 permalink: /books/
 nav: false
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+> I wouldn’t describe myself as a huge reader. But I really enjoy the way books let us connect with characters and experience their struggles, and ups and downs along the way. Sometimes, a story can even teach us something without us having to experience it ourselves, so we get to see life through someone else’s eyes. Besides scientific books, I enjoy reading biographies, classics, non-fiction, history, and quite a few other genres depending on what catches my interest. A big factor that determines whether I stay with a book until the end is the author’s writing style. The way a story is told matters a lot to me, sometimes even more than the story itself! If I enjoy the author’s voice and the way they put thoughts and emotions into words, I’m much more likely to keep reading rather than leave the book halfway through. 
 
-## Books that I am reading, have read, or will read
+## My bookshelf
+
+Here are some books I’ve read or simply wanted to include here because they caught my interest!
+
